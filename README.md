@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @heidihac
-- 👀 I’m interested in ETL, Scripting, Linux Shell Sripts, Data, Data Engineer, Data Analysis, Oracle, Databases, DBA
-- 🌱 I’m currently learning Power BI, SSIS and ADF (Azure Data Factory)
-- 💞️ I’m looking to collaborate on ETL, Scripting, Linux Shell Sripts, Data, Oracle, SSIS, Databases, DBA, Data Analisys 
-- 📫 How to reach me heidi.chaves@gmail.com, LinkedIn: Heidi-Chaves
+- 👀 I’m interested in Databases | Data Engineer | Data Analyst | AI - ML - DL | Cloud Computing - AWS - GCP - Azure - OCI | SQL - PL/SQL - Transact SQL | Scripting | Linux Shell Sripts
+- 🌱 I’m currently learning Python | AWS | AI
+- 💞️ I’m looking to collaborate on ETL - Pipeline | Power BI | SQL | Python 
+- 📫 How to reach me [LinkedIn: Heidi-Chaves](https://www.linkedin.com/in/heidi-chaves/)
 
 <!---
 heidihac/heidihac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
