@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heidihac
-- 👀 I’m interested in Databases | Data Engineer | Data Analyst | AI - ML - DL | Cloud Computing - AWS - GCP - Azure - OCI | SQL - PL/SQL - Transact SQL | Scripting | Linux Shell Sripts
+- 👀 I’m interested in AI - ML - DL - PNL | Python - SQL - PL/SQL - Transact SQL | Cloud Computing - GCP - AWS - Azure - OCI | Databases | Data Engineer | Data Analyst | Scripting | Linux Shell Sripts
 - 🌱 I’m currently learning Python | AWS | AI
-- 💞️ I’m looking to collaborate on ETL - Pipeline | Power BI | SQL | Python 
+- 💞️ I’m looking to collaborate on AI Topics and Learmings  SQL | Python 
 - 📫 How to reach me [LinkedIn: Heidi-Chaves](https://www.linkedin.com/in/heidi-chaves/)
 
 <!---
